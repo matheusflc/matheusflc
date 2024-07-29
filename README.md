@@ -74,4 +74,4 @@ Hello, my name is Matheus and I'm from Brazil. I'm a Computer Engineering studen
 <a href="https://www.instagram.com/_matflc/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusflc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusflc&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
