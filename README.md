@@ -1,56 +1,77 @@
-Olá! Eu sou o Matheus Falcão 👋
+Hello Guys! I'm Matheus Falcão! 👋
 
-<div align="center">
+<h3><i>Take a look at my <a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/">LinkedIn</a>!</i></h3>
+
+About myself
+
+Olá! Meu nome é Matheus e sou do Brasil. Sou estudante de Engenharia de Computação na UFPB. Atualmente, foco meu trabalho como Desenvolvedor Full Stack no ecossistema Aesgaard, utilizando Flutter e IA para transformar vistorias técnicas. Tenho experiência sólida com C/C++, Python, JavaScript/TypeScript e Dart. Domino metodologias ágeis e automação de processos (CI/CD) via Azure DevOps.
+
+Status
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=matheusflc&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
+</p>
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/matheusflc/github-readme-stats">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusflc&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/matheusflc/github-readme-stats">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflc&layout=compact&theme=radical&hide=kotlin" />
-</div>
+</a>
+</p>
 
-🚀 Sobre Mim
+<p align="center">
+<img src="https://views.whatilearened.today/views/github/matheusflc/views.svg" />
+</p>
 
-Sou estudante de Engenharia de Computação na UFPB e Desenvolvedor Full Stack. Atualmente, foco meu esforço no desenvolvimento do ecossistema Aesgaard, transformando processos técnicos através de tecnologia mobile e IA.
-
-🛠️ Atualmente trabalhando com: Flutter, Supabase e Integrações de LLM (Gemini/OpenAI).
-
-⚙️ No dia a dia: Atuando com metodologias ágeis e implementando melhorias em automações (CI/CD) via Azure DevOps.
-
-🧠 Pesquisador experiente em Interação Humano-Computador e BCI (Brain-Computer Interface).
-
-🛠️ Tech Stack
+🛠  Tech Stack
 
 Mobile & Frontend
 
-Backend & Cloud (Arquitetura Serverless)
+Backend & Cloud
 
 DevOps & Tools
 
-📚 Publicações
+Volunteer Experience
 
-Livro: Handbook de Pesquisas em Interação e Mídia (Editora UFPB)
+Ex-Presidente e Fundador da Compilada (Atlética de Engenharia de Computação - UFPB).
 
-Artigo: Research on Brain-Computer Interfaces in the Entertainment Field (HCI International 2023)
+Ex-Presidente de Esports do CAECOMP (Centro Acadêmico de Eng. de Computação - UFPB).
 
-Artigo: Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System (Springer)
-
-🤝 Experiência Voluntária & Liderança
-
-Fundador e Ex-Presidente da Atlética Compilada.
-
-Ex-Presidente de E-sports no CAECOMP.
+Ex-Pesquisador Científico no LIM (Laboratório de Interação e Mídia).
 
 Ex-Membro da Subequipe Elétrica no Fórmula UFPB.
 
-📊 Atividade
+Publications
 
-📫 Conecte-se comigo
+Handbook de Pesquisas em Interação e Mídia: Perspectivas sobre o estado da arte (Editora UFPB)
 
-<div align="left">
-<a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+Research on Brain-Computer Interfaces in the Entertainment Field (HCI International 2023 / Springer)
+
+Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System (HCI International 2023 / Springer)
+
+Skills
+
+Leadership & Agile Management (Azure Boards/Sprints)
+
+Mobile Development (Flutter/Dart)
+
+Backend Architecture (Supabase/PostgreSQL/Edge Functions)
+
+IA Integration (LLMs/Prompt Engineering)
+
+Quick Links
+
+<p align="left">
+<a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/"><img height="35" src="https://www.google.com/search?q=https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/7186709913362967"><img height="35" src="https://www.google.com/search?q=https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="mailto:joaomatheus012@hotmail.com"><img height="35" src="https://www.google.com/search?q=https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_matflc/"><img height="35" src="https://www.google.com/search?q=https://raw.githubusercontent.com/anirudhbelwadi/anirudhbelwadi/master/images/insta.png"></a>
+</p>
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/matheusflc">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusflc&hide_border=true&theme=github-compact" />
 </a>
-<a href="http://lattes.cnpq.br/7186709913362967" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lattes-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcv%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:joaomatheus012@hotmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-</div>
+</p>
