@@ -7,11 +7,11 @@ Olá! Eu sou o Matheus Falcão 👋
 
 🚀 Sobre Mim
 
-Sou estudante de Engenharia de Computação na UFPB e Desenvolvedor Full Stack apaixonado por criar soluções que unem hardware, software e inteligência artificial. Atualmente, foco meu esforço no desenvolvimento do ecossistema Aesgaard, transformando processos técnicos através de tecnologia mobile e IA.
+Sou estudante de Engenharia de Computação na UFPB e Desenvolvedor Full Stack. Atualmente, foco meu esforço no desenvolvimento do ecossistema Aesgaard, transformando processos técnicos através de tecnologia mobile e IA.
 
 🛠️ Atualmente trabalhando com: Flutter, Supabase e Integrações de LLM (Gemini/OpenAI).
 
-⚙️ No dia a dia: Gerenciando Sprints e Automações (CI/CD) via Azure DevOps.
+⚙️ No dia a dia: Atuando com metodologias ágeis e implementando melhorias em automações (CI/CD) via Azure DevOps.
 
 🧠 Pesquisador experiente em Interação Humano-Computador e BCI (Brain-Computer Interface).
 
@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Computação na UFPB e Desenvolvedor Full Stack a
 
 Mobile & Frontend
 
-Backend & Cloud
+Backend & Cloud (Arquitetura Serverless)
 
 DevOps & Tools
 
