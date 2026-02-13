@@ -1,77 +1,56 @@
-# Hello Guys! I'm Matheus Falcão!
+Olá! Eu sou o Matheus Falcão 👋
 
-<h3><i>Take a look at my <a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/">LinkedIn</a>!</i></h3>
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusflc&show_icons=true&theme=radical&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflc&layout=compact&theme=radical&hide=kotlin" />
+</div>
 
-# About myself
+🚀 Sobre Mim
 
-Hello, my name is Matheus and I'm from Brazil. I'm a Computer Engineering student at UFPB. I have worked with C/C++, python, kotlin, javascript. I have notions of object orientation, data structure, concurrent programming and i am still improving my english!
+Sou estudante de Engenharia de Computação na UFPB e Desenvolvedor Full Stack apaixonado por criar soluções que unem hardware, software e inteligência artificial. Atualmente, foco meu esforço no desenvolvimento do ecossistema Aesgaard, transformando processos técnicos através de tecnologia mobile e IA.
 
-# Volunteer Experience
-- Ex-President and Founder of the [Compilada](https://www.instagram.com/atleticaengcomp_ufpb/) (Computer Engineering Academic Athletic Association).
+🛠️ Atualmente trabalhando com: Flutter, Supabase e Integrações de LLM (Gemini/OpenAI).
 
-- Ex-Esports President of the [CAECOMP](https://www.instagram.com/caecomp.ci.ufpb/) (Academic Center of computer engineering at UFPB).
+⚙️ No dia a dia: Gerenciando Sprints e Automações (CI/CD) via Azure DevOps.
 
-- Ex-Scientific Researcher at [LIM](https://www.linkedin.com/company/ufpblim/?originalSubdomain=br) (Interaction and Media Laboratory).
+🧠 Pesquisador experiente em Interação Humano-Computador e BCI (Brain-Computer Interface).
 
-- Former Member of the Electrical Subteam at [Fórmula UFPB](https://www.instagram.com/formulaufpb/)
+🛠️ Tech Stack
 
-# Status
- 
- <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=matheusflc&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
- 
- <a href="https://github.com/matheusflc/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusflc&show_icons=true&theme=radical&count_private=true" />
+Mobile & Frontend
+
+Backend & Cloud
+
+DevOps & Tools
+
+📚 Publicações
+
+Livro: Handbook de Pesquisas em Interação e Mídia (Editora UFPB)
+
+Artigo: Research on Brain-Computer Interfaces in the Entertainment Field (HCI International 2023)
+
+Artigo: Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System (Springer)
+
+🤝 Experiência Voluntária & Liderança
+
+Fundador e Ex-Presidente da Atlética Compilada.
+
+Ex-Presidente de E-sports no CAECOMP.
+
+Ex-Membro da Subequipe Elétrica no Fórmula UFPB.
+
+📊 Atividade
+
+📫 Conecte-se comigo
+
+<div align="left">
+<a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
 </a>
-<a href="https://github.com/matheusflc/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflc&layout=compact&theme=radical&hide=kotlin" />
-
+<a href="http://lattes.cnpq.br/7186709913362967" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lattes-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcv%26logoColor%3Dwhite" />
 </a>
-
-
-![ViewCount](https://views.whatilearened.today/views/github/matheusflc/views.svg)  
-
-
-# 🛠 &nbsp;Tech Stack
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<br />
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab++-05122A?style=flat&logo=gitlab)&nbsp;
-<br />
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-# Publications
-
-- [Handbook de Pesquisas em Interação e Mídia: Perspectivas sobre o estado da arte](http://www.editora.ufpb.br/sistema/press5/index.php/UFPB/catalog/book/1145)
-
-  Editora UFPB
-- [Research on Brain-Computer Interfaces in the Entertainment Field](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_26)
-  
-  HCI International 2023, Copenhagen, Denmark / Springer
-
-- [Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System](https://link.springer.com/chapter/10.1007/978-3-031-35596-7_25)
-
-  HCI International 2023, Copenhagen, Denmark / Springer
-
-
-# Skills
-
-- Leadership
-- Team work
-- Object-Oriented Programming (OOP)
-
-
-# Quick Links
-
-<a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/7186709913362967"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:joaomatheus012@hotmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_matflc/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusflc&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="mailto:joaomatheus012@hotmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</div>
