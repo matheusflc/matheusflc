@@ -1,71 +1,58 @@
-Hello! I'm Matheus Falcão 👋
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusflc&show_icons=true&theme=radical&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflc&layout=compact&theme=radical&hide=kotlin" />
-</div>
+<h1 align="center">João Matheus Falcão de Oliveira</h1>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matheusflc&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
-</p>
-
-🚀 About Me
-
-I am a Computer Engineering student at UFPB (Brazil) and a Full Stack Developer. Currently, I am focused on the Aesgaard ecosystem, transforming technical inspections through mobile technology and AI.
-
-🛠️ Currently working with: Flutter, Supabase, and LLM Integrations (Gemini/OpenAI).
-
-⚙️ Daily routine: Managing Sprints and implementing CI/CD automation via Azure DevOps.
-
-🧠 Experienced researcher in Human-Computer Interaction (HCI) and Brain-Computer Interfaces (BCI).
-
-🛠️ Tech Stack
-
-Mobile & Frontend
-
-Backend & Cloud (Serverless Architecture)
-
-DevOps & Tools
-
-📚 Selected Publications
-
-Book: Handbook of Research in Interaction and Media: Perspectives on the state of the art
-
-Article: Research on Brain-Computer Interfaces in the Entertainment Field (HCI International 2023 / Springer)
-
-Article: Incorporating Eye Tracking into an EEG-Based Brainwave Visualization System (Springer)
-
-🤝 Leadership & Volunteering
-
-Founder & Former President of the Compilada (Computer Engineering Athletic Association).
-
-Former Esports President at CAECOMP.
-
-Former Member of the Electrical Subteam at Fórmula UFPB.
-
-📊 Activity & Stats
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusflc&hide_border=true&theme=github-compact" width="100%" />
+  Computer Engineering student at UFPB • Full stack developer • Building software for inspections, operations, and applied AI
 </p>
 
 <p align="center">
-<img src="https://views.whatilearened.today/views/github/matheusflc/views.svg" />
+  <a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:joaomatheus012@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://lattes.cnpq.br/7186709913362967"><img alt="Lattes CV" src="https://img.shields.io/badge/Lattes_CV-004A80?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 </p>
 
-📫 Connect with Me
+## About
 
-<div align="left">
-<a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-96822b221/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="http://lattes.cnpq.br/7186709913362967" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lattes_CV-004A80%3Fstyle%3Dfor-the-badge%26logo%3Dacademia%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:joaomatheus012@hotmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.instagram.com/_matflc/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</div>
+I am focused on building practical systems that improve how teams operate in the field and in the back office. My current work is centered on the Aesgaard ecosystem, where I develop products for mobile inspections, operational workflows, reporting, and AI-assisted processes.
+
+My day-to-day stack is built around Flutter, Supabase, TypeScript, Node.js, and CI/CD automation. I care about software that is reliable, maintainable, and useful in production.
+
+Alongside product engineering, I have a research background in Human-Computer Interaction, Brain-Computer Interfaces, and eye tracking, including work connected to Springer and HCI publication contexts.
+
+## Current Focus
+
+- Building inspection and operations software for the Aesgaard ecosystem.
+- Shipping mobile and internal web products with Flutter, Supabase, and TypeScript/Node.
+- Applying AI to reporting pipelines, workflow automation, and real-world operational tooling.
+
+## Selected Work
+
+- **Aesgaard ecosystem**  
+  Private product work across mobile apps, internal dashboards, reporting pipelines, and automation for inspection-driven workflows.
+
+- **[SistemaSolar](https://github.com/matheusflc/SistemaSolar)**  
+  A 3D solar system project in C++ focused on graphics, modeling, and simulation fundamentals.
+
+- **[BD_CRUD](https://github.com/matheusflc/BD_CRUD)**  
+  A JavaScript CRUD application that reflects practical experience with application structure, data handling, and full stack fundamentals.
+
+- **Academic and experimental repositories**  
+  Projects such as [APAProject](https://github.com/matheusflc/APAProject) and [PDIfinalproject](https://github.com/matheusflc/PDIfinalproject) document work across algorithms, systems, and applied problem-solving.
+
+## Research Background
+
+My research interests are centered on HCI, BCI, and usable interfaces informed by evidence rather than guesswork. For a full academic record, see my [Lattes CV](http://lattes.cnpq.br/7186709913362967).
+
+## Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Profile metrics" width="100%">
+</p>
+
+<p align="center">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Commit calendar" width="49%">
+  <img src="/metrics.plugin.languages.svg" alt="Language activity" width="49%">
+</p>
+
+## Stack
+
+`Flutter` `Dart` `Supabase` `TypeScript` `Node.js` `PostgreSQL` `Azure DevOps` `OpenAI APIs`
